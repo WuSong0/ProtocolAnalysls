@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Agreement:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Agreement_jar</output-path>
+    <root id="archive" name="Agreement.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Agreement" />
+      <element id="extracted-dir" path="D:/mvnrepository/log4j/log4j/1.2.16/log4j-1.2.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mvnrepository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mvnrepository/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mvnrepository/org/slf4j/slf4j-simple/1.7.7/slf4j-simple-1.7.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mvnrepository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mvnrepository/net/sf/json-lib/json-lib/2.3/json-lib-2.3-jdk15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mvnrepository/com/rabbitmq/amqp-client/4.2.0/amqp-client-4.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mvnrepository/commons-lang/commons-lang/2.4/commons-lang-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/RXTXcomm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mvnrepository/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mvnrepository/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
